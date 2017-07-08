@@ -1,0 +1,13 @@
+header p{
+    font-family: 'Bellefair', serif;
+    color: black;
+    text-align: center; 
+    font-size: 60px;
+}
+header .row a{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+}
